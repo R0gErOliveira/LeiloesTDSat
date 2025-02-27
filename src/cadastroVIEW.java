@@ -145,6 +145,8 @@ public class cadastroVIEW extends javax.swing.JFrame {
         listagemVIEW listagem = new listagemVIEW(); 
         listagem.setVisible(true);
         
+        
+        
         dispose();
     }//GEN-LAST:event_btnProdutosActionPerformed
 
